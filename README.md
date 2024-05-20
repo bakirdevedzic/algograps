@@ -2,6 +2,8 @@
 
 The Sorting Visualizer is a React application that provides a visual representation of various sorting algorithms. It currently supports Bubble Sort, Selection Sort, and Insertion Sort. Users can adjust the array size and sorting speed to see how the algorithms perform under different conditions.
 
+**LIVE**: [https://algo-graphs.netlify.app/](https://algo-graphs.netlify.app/)
+
 ## Features:
 
 - **Multiple Sorting Algorithms**: Visualize Bubble Sort, Selection Sort, and Insertion Sort.
